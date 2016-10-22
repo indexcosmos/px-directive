@@ -1,16 +1,23 @@
 h1{
-  color: #E2E2E2;
+  color: #000;
 }
 
 .container{
   background-color: #E2E2E2;
   padding-bottom: 30px;
+  font-family: sans-serif;
 }
-.header{
+
+header{
   width: 500px;
-  background: blue;
-  margin:auto;
-  text-align: left;
+  background: #FFFFFF;
+  margin: auto;
+  text-align: center;
+}
+
+.branding{
+  font-size: 20px;
+    margin: 2px;
 }
 .box{
   width: 500px;
