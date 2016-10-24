@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "file.js",
+  "dependencies": {
+    "async": "^2.1.2",
+    "express": "^4.14.0",
+    "lodash": "^4.16.4",
+    "minimatch": "^3.0.3",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indexcosmos/px-directive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indexcosmos/px-directive/issues"
+  },
+  "homepage": "https://github.com/indexcosmos/px-directive#readme"
+}
